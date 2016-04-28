@@ -1,0 +1,21 @@
+{
+  "name": "Hservnod",
+  "version": "0.0.1",
+  "description": "app node",
+  "main": "server.js",
+  "keywords": [],
+  "author": "hackeo1",
+  "license": "CC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackeo1/Hservnod.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hackeo1/Hservnod/issues"
+  },
+  "homepage": "https://github.com/hackeo1/Hservnod/home",
+  "dependencies": {
+    "lodash": "^4.11.1",
+    "winston": "^2.2.0"
+  }
+}

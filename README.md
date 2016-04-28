@@ -1,2 +1,6 @@
 # Hservnod
-app node
+
+```sh
+npm install
+node server.js
+```

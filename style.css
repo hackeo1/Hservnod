@@ -1,0 +1,36 @@
+html {
+    background-color: #FCFCFC;
+    color: #888;
+    display: table;
+    font-family: sans-serif;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+}
+* {
+    line-height: 1.2;
+    margin: 0;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+    margin: 2rem auto;
+}
+h1 {
+    color: #555;
+    font-size: 2rem;
+    font-weight: 400;
+}
+p {
+    margin: 0 auto;
+    width: 280px;
+}
+@media only screen and (max-width: 280px) {
+    body, p {
+        width: 95%;
+    }
+    h1 {
+        font-size: 1.5rem;
+        margin: 0 0 0.3rem;
+    }
+}
